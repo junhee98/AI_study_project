@@ -5,6 +5,8 @@ This repo is designed to be as easy as possible to implement deep learning model
  
 * **Classification on MNIST and CIFAR10/100**
   * CNN [[refer](https://cs231n.github.io/convolutional-networks/)]
+  * LeNet [[paper](https://ieeexplore.ieee.org/document/726791)]
+  * AlexNet [[paper](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)]
   * VGG-11/16 [[paper](https://arxiv.org/pdf/1409.1556v6.pdf)]
   * ResNet-18/34/50 [[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)]
   * GoogleNet [[paper](https://arxiv.org/pdf/1409.4842.pdf)]
@@ -26,7 +28,7 @@ The dataset used for training is **Vehicles-OpenImages Dataset** in roboflow [[l
 <img width="60%" src="https://user-images.githubusercontent.com/76892271/199309422-5a1e43f3-5249-4c09-88cf-801ba789bd72.gif"/>
 
 ### Results of AutoEncoder on Mnist
-![conv_origin_image_70](https://user-images.githubusercontent.com/62004821/199794657-5a17399c-24da-4aac-97dd-4a2058acb0e7.png) ![conv_origin_image_60](https://user-images.githubusercontent.com/62004821/199795205-53d22cef-f61d-4399-a45a-c7b473a6c06d.png)
+![conv_image_80](https://user-images.githubusercontent.com/62004821/199795488-171b0c65-ea53-43f8-8989-eb08095f29e9.png) ![conv_image_90](https://user-images.githubusercontent.com/62004821/199795501-b8cb2afb-43f7-4eed-a2cf-9785abfce732.png)
 
 ## Documentation
 You can find the API documentation on the pytorch website: https://pytorch.org/vision/stable/index.html

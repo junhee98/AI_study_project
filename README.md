@@ -7,7 +7,7 @@ This repo is designed to be as easy as possible to implement deep learning model
   * CNN [[refer](https://cs231n.github.io/convolutional-networks/)]
   * LeNet [[paper](https://ieeexplore.ieee.org/document/726791)]
   * AlexNet [[paper](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)]
-  * VGG-11/16 [[paper](https://arxiv.org/pdf/1409.1556v6.pdf)]
+  * VGG-16/19 [[paper](https://arxiv.org/pdf/1409.1556v6.pdf)]
   * ResNet-18/34/50 [[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)]
   * GoogleNet [[paper](https://arxiv.org/pdf/1409.4842.pdf)]
   

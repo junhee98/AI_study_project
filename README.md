@@ -7,12 +7,13 @@ This repo is designed to be as easy as possible to implement deep learning model
   * CNN [[refer](https://cs231n.github.io/convolutional-networks/)]
   * VGG-11/16 [[paper](https://arxiv.org/pdf/1409.1556v6.pdf)]
   * ResNet-18/34/50 [[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)]
+  * GoogleNet [[paper](https://arxiv.org/pdf/1409.4842.pdf)]
 
 ## Real-time Vehicle Detection using YOLOv5s
 
 ### Dataset 
 
-The dataset used for training is 
+The dataset used for training is Vehicles-OpenImages Dataset in roboflow [[link](https://public.roboflow.com/object-detection/vehicles-openimages)]
 
 ### Results on real-time video
 <img width="60%" src="https://user-images.githubusercontent.com/76892271/199302043-2e9540c6-e1eb-49eb-a82b-6e7737845265.gif"/>

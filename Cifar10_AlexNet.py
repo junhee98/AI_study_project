@@ -179,7 +179,11 @@ class AlexNet5(nn.Module): #84%,84%,83%
         x = F.softmax(self.fc3(x),dim=1)
         return x
 
-net = AlexNet5()
+#net = AlexNet()
+#net = AlexNet2()
+#net = AlexNet3()
+#net = AlexNet4()
+#net = AlexNet5()
 net.to(device)
 #net = nn.parallel.DataParallel(net)
 

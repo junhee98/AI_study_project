@@ -10,7 +10,7 @@ This repo is designed to be as easy as possible to implement deep learning model
   * GoogleNet [[paper](https://arxiv.org/pdf/1409.4842.pdf)]
   
  * **AutoEncoder on MNIST**
-   * AutoEncoder study material [[youtube](https://www.youtube.com/watch?v=o_peo6U7IRM)]
+   * AutoEncoder study material in Korean [[youtube](https://www.youtube.com/watch?v=o_peo6U7IRM)]
   
  * **Reinforcement learning(A2C) on Atari**
    * material blog [[link](https://ropiens.tistory.com/153)][[link](https://ropiens.tistory.com/163)]
@@ -24,6 +24,9 @@ The dataset used for training is **Vehicles-OpenImages Dataset** in roboflow [[l
 ### Results on real-time video
 <img width="60%" src="https://user-images.githubusercontent.com/76892271/199302043-2e9540c6-e1eb-49eb-a82b-6e7737845265.gif"/>
 <img width="60%" src="https://user-images.githubusercontent.com/76892271/199309422-5a1e43f3-5249-4c09-88cf-801ba789bd72.gif"/>
+
+### Results of AutoEncoder on Mnist
+![conv_origin_image_70](https://user-images.githubusercontent.com/62004821/199794657-5a17399c-24da-4aac-97dd-4a2058acb0e7.png) ![conv_origin_image_60](https://user-images.githubusercontent.com/62004821/199795205-53d22cef-f61d-4399-a45a-c7b473a6c06d.png)
 
 ## Documentation
 You can find the API documentation on the pytorch website: https://pytorch.org/vision/stable/index.html
